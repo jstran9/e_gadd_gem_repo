@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ttran9"]
   spec.email         = ["toddtran9@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various view specific methods for the DevcampPortfolio app from Jordan Hudgen's Dissecting ROR 5 course.}
+  spec.description   = %q{Provides generated HTML data for Rails applications.}
+  spec.homepage      = "https://github.com/ttran9/e_gadd_gem_repo"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
